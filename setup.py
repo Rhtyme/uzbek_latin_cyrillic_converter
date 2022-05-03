@@ -11,4 +11,8 @@ setup(
     package_dir={'': 'script'},
     url='https://github.com/Rhtyme/uzbek_latin_cyrillic_converter',
     keywords='converter, uzbek-latin-cyrillic-converter',
+    install_requires=[
+          'pytest',
+      ],
+
 )
