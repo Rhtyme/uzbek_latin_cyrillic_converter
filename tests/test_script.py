@@ -1,4 +1,4 @@
-import script.uzbek_latin_cyrillic_converter as converter
+import uzbek_latin_cyrillic_converter.converter as converter
 
 
 def test_get_cyrillic_or_same_char():
