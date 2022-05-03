@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='uzbek_latin_cyrillic_converter',
-    version='0.1',
+    version='0.2',
     license='MIT',
     author="Sirojiddin Komolov",
     author_email='rhtyme@gmail.com',
