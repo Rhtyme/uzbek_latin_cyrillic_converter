@@ -8,8 +8,11 @@ Of course, the performance comes with its own cost that is accuracy. Although, i
 
 For now, it only supports latin to cyrillic converter. So your contributions are always welcome.
 
-## Usage!
-just download this repo, import the script file and execute the function:
+## Installation and Usage! Install using pip:
+
+`pip install uzbek_latin_cyrillic_converter`
+
+Then use it in your projects:
 
 `import uzbek_latin_cyrillic_converter`
 
